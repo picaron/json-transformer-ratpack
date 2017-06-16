@@ -1,0 +1,229 @@
+{
+  "input": [
+    {
+      "creationDate": 1493145073000,
+      "endDate": 1493154968000,
+      "externalAccountId": "c5b5e2f1-36c2-4ba6-ac43-57506b7bf31e",
+      "status": "CANCELLED",
+      "suspensionReason": null,
+      "maxUsers": null,
+      "assignmentCount": 1,
+      "parentSubscriptionId": null,
+      "order": {
+        "id": "1881278",
+        "href": "https://testmarketplace.appdirect.com/api/billing/v1/orders/1881278"
+      },
+      "user": {
+        "id": "ce9b1d60-1524-4ca1-a5cc-b69a17597f7f",
+        "href": "https://testmarketplace.appdirect.com/api/account/v1/users/ce9b1d60-1524-4ca1-a5cc-b69a17597f7f"
+      },
+      "company": {
+        "id": "6e78a2d1-f606-4c87-9c3f-b89e3246e25c",
+        "href": "https://testmarketplace.appdirect.com/api/account/v1/companies/6e78a2d1-f606-4c87-9c3f-b89e3246e25c"
+      },
+      "product": {
+        "id": "111319",
+        "href": "https://testmarketplace.appdirect.com/api/marketplace/v1/products/111319"
+      },
+      "edition": {
+        "id": "165247",
+        "href": "https://testmarketplace.appdirect.com/api/marketplace/v1/products/111319/editions/165247"
+      },
+      "links": [],
+      "id": "5b1ce7ae-124c-4116-a500-24c61bbad532"
+    },
+    {
+      "creationDate": 1493145309000,
+      "endDate": 1493147641000,
+      "externalAccountId": "cb982b2b-6627-4804-b939-1fdba6f9868a",
+      "status": "CANCELLED",
+      "suspensionReason": null,
+      "maxUsers": 1,
+      "assignmentCount": 1,
+      "parentSubscriptionId": null,
+      "order": {
+        "id": "1881282",
+        "href": "https://testmarketplace.appdirect.com/api/billing/v1/orders/1881282"
+      },
+      "user": {
+        "id": "ce9b1d60-1524-4ca1-a5cc-b69a17597f7f",
+        "href": "https://testmarketplace.appdirect.com/api/account/v1/users/ce9b1d60-1524-4ca1-a5cc-b69a17597f7f"
+      },
+      "company": {
+        "id": "6e78a2d1-f606-4c87-9c3f-b89e3246e25c",
+        "href": "https://testmarketplace.appdirect.com/api/account/v1/companies/6e78a2d1-f606-4c87-9c3f-b89e3246e25c"
+      },
+      "product": {
+        "id": "101497",
+        "href": "https://testmarketplace.appdirect.com/api/marketplace/v1/products/101497"
+      },
+      "edition": {
+        "id": "146194",
+        "href": "https://testmarketplace.appdirect.com/api/marketplace/v1/products/101497/editions/146194"
+      },
+      "links": [],
+      "id": "731337f2-ad3b-41f1-af97-1e927e88c298"
+    },
+    {
+      "creationDate": 1493145393000,
+      "endDate": 1493147642000,
+      "externalAccountId": "253342",
+      "status": "CANCELLED",
+      "suspensionReason": null,
+      "maxUsers": 1,
+      "assignmentCount": 1,
+      "parentSubscriptionId": null,
+      "order": {
+        "id": "1881286",
+        "href": "https://testmarketplace.appdirect.com/api/billing/v1/orders/1881286"
+      },
+      "user": {
+        "id": "ce9b1d60-1524-4ca1-a5cc-b69a17597f7f",
+        "href": "https://testmarketplace.appdirect.com/api/account/v1/users/ce9b1d60-1524-4ca1-a5cc-b69a17597f7f"
+      },
+      "company": {
+        "id": "6e78a2d1-f606-4c87-9c3f-b89e3246e25c",
+        "href": "https://testmarketplace.appdirect.com/api/account/v1/companies/6e78a2d1-f606-4c87-9c3f-b89e3246e25c"
+      },
+      "product": {
+        "id": "476",
+        "href": "https://testmarketplace.appdirect.com/api/marketplace/v1/products/476"
+      },
+      "edition": {
+        "id": "162452",
+        "href": "https://testmarketplace.appdirect.com/api/marketplace/v1/products/476/editions/162452"
+      },
+      "links": [],
+      "id": "48fd4f29-2f26-4f25-a9bb-908fdd55fe52"
+    },
+    {
+      "creationDate": 1493649308000,
+      "endDate": null,
+      "externalAccountId": null,
+      "status": "FAILED",
+      "suspensionReason": null,
+      "maxUsers": 1,
+      "assignmentCount": 0,
+      "parentSubscriptionId": null,
+      "order": {
+        "id": "1887029",
+        "href": "https://testmarketplace.appdirect.com/api/billing/v1/orders/1887029"
+      },
+      "user": {
+        "id": "ce9b1d60-1524-4ca1-a5cc-b69a17597f7f",
+        "href": "https://testmarketplace.appdirect.com/api/account/v1/users/ce9b1d60-1524-4ca1-a5cc-b69a17597f7f"
+      },
+      "company": {
+        "id": "6e78a2d1-f606-4c87-9c3f-b89e3246e25c",
+        "href": "https://testmarketplace.appdirect.com/api/account/v1/companies/6e78a2d1-f606-4c87-9c3f-b89e3246e25c"
+      },
+      "product": {
+        "id": "113783",
+        "href": "https://testmarketplace.appdirect.com/api/marketplace/v1/products/113783"
+      },
+      "edition": {
+        "id": "172747",
+        "href": "https://testmarketplace.appdirect.com/api/marketplace/v1/products/113783/editions/172747"
+      },
+      "links": [],
+      "id": "45763ca5-121a-43d6-bbf0-6a38224ac19e"
+    },
+    {
+      "creationDate": 1493649364000,
+      "endDate": 1494016382000,
+      "externalAccountId": "bac78323-3c07-4171-a46c-651a9c58a828",
+      "status": "CANCELLED",
+      "suspensionReason": null,
+      "maxUsers": 1,
+      "assignmentCount": 1,
+      "parentSubscriptionId": null,
+      "order": {
+        "id": "1887037",
+        "href": "https://testmarketplace.appdirect.com/api/billing/v1/orders/1887037"
+      },
+      "user": {
+        "id": "ce9b1d60-1524-4ca1-a5cc-b69a17597f7f",
+        "href": "https://testmarketplace.appdirect.com/api/account/v1/users/ce9b1d60-1524-4ca1-a5cc-b69a17597f7f"
+      },
+      "company": {
+        "id": "6e78a2d1-f606-4c87-9c3f-b89e3246e25c",
+        "href": "https://testmarketplace.appdirect.com/api/account/v1/companies/6e78a2d1-f606-4c87-9c3f-b89e3246e25c"
+      },
+      "product": {
+        "id": "74054",
+        "href": "https://testmarketplace.appdirect.com/api/marketplace/v1/products/74054"
+      },
+      "edition": {
+        "id": "102032",
+        "href": "https://testmarketplace.appdirect.com/api/marketplace/v1/products/74054/editions/102032"
+      },
+      "links": [],
+      "id": "f3fcb7fb-9c4a-4ad8-a9b1-504e41a0e0f6"
+    },
+    {
+      "creationDate": 1493649398000,
+      "endDate": 1494016382000,
+      "externalAccountId": "cfa4da3f-e9fa-46d7-b42b-e1e9096bae40",
+      "status": "CANCELLED",
+      "suspensionReason": null,
+      "maxUsers": 1,
+      "assignmentCount": 1,
+      "parentSubscriptionId": null,
+      "order": {
+        "id": "1887041",
+        "href": "https://testmarketplace.appdirect.com/api/billing/v1/orders/1887041"
+      },
+      "user": {
+        "id": "ce9b1d60-1524-4ca1-a5cc-b69a17597f7f",
+        "href": "https://testmarketplace.appdirect.com/api/account/v1/users/ce9b1d60-1524-4ca1-a5cc-b69a17597f7f"
+      },
+      "company": {
+        "id": "6e78a2d1-f606-4c87-9c3f-b89e3246e25c",
+        "href": "https://testmarketplace.appdirect.com/api/account/v1/companies/6e78a2d1-f606-4c87-9c3f-b89e3246e25c"
+      },
+      "product": {
+        "id": "17771",
+        "href": "https://testmarketplace.appdirect.com/api/marketplace/v1/products/17771"
+      },
+      "edition": {
+        "id": "23215",
+        "href": "https://testmarketplace.appdirect.com/api/marketplace/v1/products/17771/editions/23215"
+      },
+      "links": [],
+      "id": "b9cb87a1-fe7f-478b-995a-a33cad962f8f"
+    },
+    {
+      "creationDate": 1493671057000,
+      "endDate": 1494016382000,
+      "externalAccountId": "a1e72d25-cc9a-4687-b644-8324a25e2865",
+      "status": "CANCELLED",
+      "suspensionReason": null,
+      "maxUsers": 1,
+      "assignmentCount": 1,
+      "parentSubscriptionId": null,
+      "order": {
+        "id": "1887553",
+        "href": "https://testmarketplace.appdirect.com/api/billing/v1/orders/1887553"
+      },
+      "user": {
+        "id": "ce9b1d60-1524-4ca1-a5cc-b69a17597f7f",
+        "href": "https://testmarketplace.appdirect.com/api/account/v1/users/ce9b1d60-1524-4ca1-a5cc-b69a17597f7f"
+      },
+      "company": {
+        "id": "6e78a2d1-f606-4c87-9c3f-b89e3246e25c",
+        "href": "https://testmarketplace.appdirect.com/api/account/v1/companies/6e78a2d1-f606-4c87-9c3f-b89e3246e25c"
+      },
+      "product": {
+        "id": "63731",
+        "href": "https://testmarketplace.appdirect.com/api/marketplace/v1/products/63731"
+      },
+      "edition": {
+        "id": "86583",
+        "href": "https://testmarketplace.appdirect.com/api/marketplace/v1/products/63731/editions/86583"
+      },
+      "links": [],
+      "id": "c47ec824-0de4-4d30-a8de-47f43b440942"
+    }
+  ],
+  "query": "{dynamicTasksJSON: ( .[] |= { name: \"cancel_subscription\", taskReferenceName: \"cancel_\\(.id)\", type: \"HTTP\" }) }+{ dynamicTasksInputJSON : (( .[] |= { (\"cancel_\" + .id): { http_request: {uri: .id, method: \"DELETE\", accept:\"application/json\", oauthConsumerKey: \"${workflow.input.oauthConsumerKey}\", oauthConsumerSecret: \"${workflow.input.oauthConsumerSecret}\"} } } ) | add) }"
+}

@@ -21,4 +21,20 @@ public class TransformRequest {
 	public void setQuery(String query) {
 		this.query = query;
 	}
+
+	@Override
+	public boolean equals(Object o) {
+		if (this == o) return true;
+		if (o == null || getClass() != o.getClass()) return false;
+		TransformRequest that = (TransformRequest) o;
+		if (!input.equals(that.input)) return false;
+		return query.equals(that.query);
+	}
+
+	@Override
+	public int hashCode() {
+		int result = input.hashCode();
+		result = 31 * result + query.hashCode();
+		return result;
+	}
 }

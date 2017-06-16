@@ -29,5 +29,6 @@ dependencies {
 mainClassName = "com.appdirect.functions.JsonTransformer"
 
 run {
+    jvmArgs '-Xmx32m', '-Xms8m'
     systemProperty("indent-output", "true")
 }
