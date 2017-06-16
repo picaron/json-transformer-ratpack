@@ -47,7 +47,7 @@ public class JsonTransformer {
 			List<JsonNode> result = jsonQuery.apply(request.getInput());
 			return json((result.size() == 1) ? result.get(0) : result);
 		} catch (JsonQueryException e) {
-			return "{\"error\": \"" + e.getMessage() + "\"}";
+			return "{\"error\": \"" + e.getCause().getMessage().replaceAll("\"", "\\\"") + "\"}";
 		}
 	}
 }
